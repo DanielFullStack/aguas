@@ -11,10 +11,10 @@ Este repositório contém os serviços necessários para rodar o sistema de dete
 
 ## Serviços Principais
 
-1. **`[srv_ingestion](https://github.com/DanielFullStack/srv_ingestion)`**: Responsável por ingerir dados de sensores.
-2. **`[srv_leakdetection](https://github.com/DanielFullStack/srv_leakdetection)`**: Processa leituras de pressão e detecta vazamentos.
-3. **`[srv_notification](https://github.com/DanielFullStack/srv_notification)`**: Envia notificações sobre vazamentos detectados.
-4. **`[srv_sensor](https://github.com/DanielFullStack/srv_sensor)`**: Simula os sensores que geram leituras de pressão.
+1. **[srv_ingestion](https://github.com/DanielFullStack/srv_ingestion)**: Responsável por ingerir dados de sensores.
+2. **[srv_leakdetection](https://github.com/DanielFullStack/srv_leakdetection)**: Processa leituras de pressão e detecta vazamentos.
+3. **[srv_notification](https://github.com/DanielFullStack/srv_notification)**: Envia notificações sobre vazamentos detectados.
+4. **[srv_sensor](https://github.com/DanielFullStack/srv_sensor)**: Simula os sensores que geram leituras de pressão.
 
 ---
 
