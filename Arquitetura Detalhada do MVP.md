@@ -83,7 +83,6 @@ Incorporar os dispositivos Raspberry Pi como pontos remotos de coleta de dados, 
 ---
 
 ### **4. Tecnologias Atualizadas**
-|------------------------------|-------------------------------|----------------------------------------------|
 | **Componente**               | **Tecnologia**                | **Justificativa**                            |
 |------------------------------|-------------------------------|----------------------------------------------|
 | **Dispositivo IoT**          | Raspberry Pi                  | Coleta de dados em campo de forma flexível.  |
@@ -93,7 +92,6 @@ Incorporar os dispositivos Raspberry Pi como pontos remotos de coleta de dados, 
 | **Banco de Dados Relacional**| PostgreSQL                    | Consistência e suporte a consultas SQL.      |
 | **Banco de Dados em Cache**  | Redis                         | Processamento rápido para leituras recentes. |
 | **Notificação por E-mail**   | Java Mail                     | Serviços confiáveis para envio de e-mails.   |
-|------------------------------|-------------------------------|----------------------------------------------|
 ---
 
 ### **5. Escalabilidade e Resiliência**
