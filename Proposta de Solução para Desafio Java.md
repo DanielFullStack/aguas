@@ -83,7 +83,6 @@ O MVP irá focar na **detecção e notificação de vazamentos**. Para isso:
 ---
 
 #### **Estimativa de Esforço**
-|----------------------------------------|----------------------|
 | **Atividade**                          | **Horas Estimadas**  |
 |----------------------------------------|----------------------|
 | Configuração inicial                   | 40                   |
@@ -92,7 +91,6 @@ O MVP irá focar na **detecção e notificação de vazamentos**. Para isso:
 | Integração com sistemas externos       | 60                   |
 | Testes e ajustes finais                | 40                   |
 | **Total Estimado (em horas)**          | **340 horas**        |
-|----------------------------------------|----------------------|
 
 Com base no total de horas, a estimativa para orçamento pode ser ajustada considerando valores por hora aplicados no mercado local.
 
